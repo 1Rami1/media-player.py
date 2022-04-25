@@ -1,2 +1,2 @@
-# Video_viewer
+# media player
 This repository to view any video 
